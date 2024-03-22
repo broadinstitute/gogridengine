@@ -1,4 +1,4 @@
-module github.com/metrumresearchgroup/gogridengine
+module github.com/broadinstitute/gogridengine
 
 go 1.13
 
