@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/metrumresearchgroup/gogridengine"
+	"github.com/broadinstitute/gogridengine"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -3,7 +3,7 @@ package filters
 import (
 	"time"
 
-	"github.com/metrumresearchgroup/gogridengine"
+	"github.com/broadinstitute/gogridengine"
 	log "github.com/sirupsen/logrus"
 )
 
