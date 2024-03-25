@@ -9,6 +9,7 @@ type Host struct {
 	XMLName       xml.Name     `xml:"Queue-List" json:"-"`
 	Name          string       `xml:"name" json:"name"`
 	QType         string       `xml:"qtype" json:"qtype"`
+	State         string       `xml:"state" json:"state"`
 	SlotsUsed     int32        `xml:"slots_used" json:"slots_used"`
 	SlotsReserved int32        `xml:"slots_rsv" json:"slots_reserved"`
 	SlotsTotal    int32        `xml:"slots_total" json:"slots_total"`
